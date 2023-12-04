@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaeMoss
 - 👀 I’m interested in dogs, environmentalism, coding.
-- 🌱 I’m currently learning javascript, HTML, CSS.  I'm about 1/4 of the way through Thinkful's Flex Engineering Bootcamp.
+- 🌱 I’m currently learning Java and Jquery.  I'm half way through a software development program through Chippewa Valley Technical College.
 - 💞️ I’m looking to collaborate on ??  I wouldn't even know where to start yet.  
 - 📫 How to reach me k.omodth@gmail.com
 
